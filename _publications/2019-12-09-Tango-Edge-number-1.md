@@ -1,4 +1,4 @@
----
+
 title: "Tango of edge and cloud execution for reliability"
 collection: publications
 permalink: /publication/2019-12-09-Tango-Edge-number-1.md
@@ -6,4 +6,3 @@ excerpt: 'This paper evaluates the performance of various server configuration m
 date: 2019-12-09
 venue: 'MECC '19: Proceedings of the 4th Workshop on Middleware for Edge Clouds & Cloudlets'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3366614.3368103'
----
