@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Teaching"
 permalink: /teaching/
 ---
 
@@ -11,4 +10,4 @@ Purdue University
 * Graduate Teaching Assistant, Fall & Spring 2018: ECE 270 Introduction to Digital System Design.
 
 BITS Pilani
-* Undergraduate Teaching Assistant, Fall 2015: MATH F212 Engineering Optimization*. 
+* Undergraduate Teaching Assistant, Fall 2015: MATH F212 Engineering Optimization. 
