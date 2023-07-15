@@ -1,4 +1,9 @@
-## Publications
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
 1. **Chandan Bothra**, Jianfei Gao, Sanjay Rao and Bruno Ribeiro. *Veritas: Answering Causal Queries from Video Streaming Traces* (Accepted at SIGCOMM 2023)
 2. Ehab Ghabashneh, **Chandan Bothra**, Ramesh Govindan, Antonio Ortega and Sanjay Rao. *Dragonfly: Higher Perceptual Quality For Continuous 360° Video Playback* (Accepted at SIGCOMM 2023)
