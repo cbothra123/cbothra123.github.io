@@ -4,7 +4,7 @@ main:
     url: /files/CV-Chandan-Bothra-Revised.pdf
     
   - title: "Publications"
-    url: /_publications/publications.md
+    url: /publications/publications.md
 
   - title: "Teaching"
     url: /teaching/    
