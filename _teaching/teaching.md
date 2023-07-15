@@ -10,7 +10,6 @@ permalink: /teaching/
 *	Graduate Teaching Assistant, Fall & Spring 2019: ECE 477 Senior Design.
 * Graduate Teaching Assistant, Fall & Spring 2018: ECE 270 Introduction to Digital System Design.
 
-  [All above at Purdue University]
+All above at Purdue University
   
-*	Undergraduate Teaching Assistant, Fall 2015: MATH F212 Engineering Optimization*.
-  [BITS Pilani]
+*	Undergraduate Teaching Assistant, Fall 2015: MATH F212 Engineering Optimization*. (BITS Pilani)
