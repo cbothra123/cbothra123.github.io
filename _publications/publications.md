@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Publications"
+excerpt: "Publications"
+author_profile: true
+redirect_from: 
+  - /publications/
+---
+
 ## Publications
 
 1. **Chandan Bothra**, Jianfei Gao, Sanjay Rao and Bruno Ribeiro. *Veritas: Answering Causal Queries from Video Streaming Traces* (Accepted at SIGCOMM 2023)
